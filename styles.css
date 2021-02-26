@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #222;
+    min-height: 100vh;
+    min-width: 100vw;
+    overflow: hidden;
+    font-family: "Segoe UI", sans-serif;
+    color: white;
+}
+#info {
+    opacity: 0.7;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
+}
